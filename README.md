@@ -59,6 +59,8 @@
 </div>
 <hr/>
 
+<div align="center">
+
 # 🧑🏻‍💻 Project
 ## Semi Project
 ##### [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
@@ -71,6 +73,8 @@
 <div align="center">
 <br/>
 <hr/>
+
+</div>
 
 <h2>BACKJOON</h2>
 
