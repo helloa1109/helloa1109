@@ -18,8 +18,18 @@
 <h1>☘ SKILLS ☘️</h1>
 </div>
 
-## FE 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<div align="center">
+<h1>FE</h1>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/greensock-88CE02?style=flat&logo=greensock&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"> &nbsp;
+</div>
 
 ## BE
 <img src="https://img.shields.io/badge/java 11-007396?style=for-the-badge&logo=java&logoColor=white"> 
