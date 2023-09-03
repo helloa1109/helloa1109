@@ -19,7 +19,9 @@
 </div>
 
 <div align="center">
-<h1>FE</h1>
+  
+<h1>FRONT-END</h1>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black"> &nbsp;
@@ -29,11 +31,28 @@
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/greensock-88CE02?style=flat&logo=greensock&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/jstl-FF0000?style=flat&logo=jstllogoColor=white"> &nbsp;
 
 </div>
 
-## BE
-<img src="https://img.shields.io/badge/java 11-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<div align="center">
+
+<h1>BACK-END</h1>
+  
+<img src="https://img.shields.io/badge/java 11-007396?style=flat&logo=java&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=spring&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/mysql 8-4479A1?style=flat&logo=mysql&logoColor=white"> &nbsp;
+
+</div>
+
+<div align="center">
+
+<h1>TOOLS</h1>
+
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&c%2B%2B&logoColor=white"> &nbsp;
+ 
+</div>
 <hr/>
 
 <div align="center">
