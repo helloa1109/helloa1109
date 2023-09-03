@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&weight=1000&size=40&pause=1000&color=FF930C&center=true&vCenter=true&width=800&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%83%81%ED%98%81%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 <br/><br/>
-<h3>SNS</h1>
+<h3>BLOG & SNS</h1>
 <a href="https://www.notion.so/my-name-is-Sang-Hyuk-5995b4ab5c0448539c698da2bd0bd612?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/hyu2k5/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
@@ -13,13 +13,10 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloa1109&show_icons=true&theme=cobalt&center)<br/><br/>
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/helloa1109">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloa1109&layout=compact&show_icons=true&theme=highcontrast&hide=python" />
-  </a>
-</p>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helloa1109&show_icons=true&theme=tokyonight)
+  &nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloa1109&layout=compact&theme=tokyonight&hide=python)
+
 </div>
 
 <div align="center">
@@ -59,14 +56,14 @@
 </div>
 <hr/>
 
-# Project
+# 🧑🏻‍💻 Project
 ## Semi Project
 ##### [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
-: 호텔 통합관리 웹사이트 제작을 통해 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행
+<h4>📕 호텔 통합관리 웹사이트 제작을 통해 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행</h2>
 
 ## Final Project
 ##### [WEPLI](https://github.com/helloa1109/Wepli)
-: 음악을 공유하고 즐길 수 있는 소셜 DJ 사이트
+<h4>📕 음악을 공유하고 즐길 수 있는 소셜 DJ 사이트</h4>
 
 <div align="center">
 <br/>
