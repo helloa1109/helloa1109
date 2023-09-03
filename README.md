@@ -13,13 +13,19 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloa1109&layout=compact&show_icons=true&theme=highcontrast&hide=python" />
   </a>
 </p>
-
-<hr/>
-<h1>☘ SKILLS ☘️</h1>
 </div>
 
+# Project
+## Semi Project
+##### [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
+: 호텔 통합관리 웹사이트 제작을 통해 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행
+
+## Final Project
+##### [WEPLI](https://github.com/helloa1109/Wepli)
+
+
 <div align="center">
-  
+<h1>☘ SKILLS ☘️</h1>
 <h1>FRONT-END</h1>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"> &nbsp;
