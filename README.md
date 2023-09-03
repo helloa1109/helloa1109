@@ -1,8 +1,12 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&weight=1000&size=40&pause=1000&color=FF930C&center=true&vCenter=true&width=800&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%83%81%ED%98%81%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
-
+<br/><br/>
+<h1>SNS LIST</h1>
+<a href="(https://www.notion.so/my-name-is-Sang-Hyuk-5995b4ab5c0448539c698da2bd0bd612?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<hr/>
 </div>
+
 
 <div align="center">
   
@@ -14,15 +18,6 @@
   </a>
 </p>
 </div>
-
-# Project
-## Semi Project
-##### [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
-: 호텔 통합관리 웹사이트 제작을 통해 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행
-
-## Final Project
-##### [WEPLI](https://github.com/helloa1109/Wepli)
-
 
 <div align="center">
 <h1>☘ SKILLS ☘️</h1>
@@ -61,8 +56,18 @@
 </div>
 <hr/>
 
+# Project
+## Semi Project
+##### [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
+: 호텔 통합관리 웹사이트 제작을 통해 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행
+
+## Final Project
+##### [WEPLI](https://github.com/helloa1109/Wepli)
+: 음악을 공유하고 즐길 수 있는 소셜 DJ 사이트
+
 <div align="center">
 <br/>
+<hr/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyuk1247)](https://solved.ac/hyuk1247)
