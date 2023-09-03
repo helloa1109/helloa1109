@@ -27,8 +27,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=black"> &nbsp;
-<img src="https://img.shields.io/badge/greensock-88CE02?style=flat&logo=greensock&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/greensock-88CE02?style=flat&logo=greensock&logoColor=white"> &nbsp;
+
 </div>
 
 ## BE
