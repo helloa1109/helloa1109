@@ -7,6 +7,11 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloa1109&show_icons=true&theme=cobalt&center)<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloa1109&layout=compact&theme=tokyonight)
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/helloa1109">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloa1109&layout=compact&show_icons=true&theme=highcontrast&hide=python" />
+  </a>
+</p>
 
 </div>
