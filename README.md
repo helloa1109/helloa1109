@@ -71,15 +71,14 @@
 ##### [WEPLI](https://github.com/helloa1109/Wepli)
 <h4>📕 음악을 공유하고 즐길 수 있는 소셜 DJ 사이트</h4>
 
+## Project
+##### [GoodSeul](https://github.com/helloa1109/goodseul)
+<h4>📕  </h4>
+
 <div align="center">
 <br/>
 <hr/>
 
 </div>
-
-<h2>BACKJOON</h2>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyuk1247)](https://solved.ac/hyuk1247)
 
 </div>
