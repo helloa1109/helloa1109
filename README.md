@@ -73,7 +73,7 @@
 
 ## Project
 ##### [GoodSeul](https://github.com/helloa1109/goodseul)
-<h4>📕  </h4>
+<h4>📕 굿 중개 플랫폼 굿슬</h4>
 
 <div align="center">
 <br/>
