@@ -17,12 +17,11 @@
 - [📰 News Summarizer](https://github.com/username/news-ai) — AI 기반 뉴스 요약 서비스  
 
 ## 📝 Blog
-- [Tistory Blog](https://yourblog.tistory.com)  
+- [Tistory Blog](https://hyukding.tistory.com/)  
 - [Velog](https://velog.io/@username)  
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
 ## ✨ Fun Fact
-- 🎮 게임 좋아함 (특히 LoL, 페이커 팬)  
 - ☕ 카페인 없으면 코딩 불가  
