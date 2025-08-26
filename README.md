@@ -10,11 +10,11 @@
 - **Frontend**: React, Next.js, Styled-Components, TailwindCSS  
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB, MySQL  
-- **Tools**: Git, Figma, VSCode  
+- **Tools**: Git, Figma, VSCode 
 
 ## 📂 Featured Projects
-- [📸 Photofolio](https://github.com/username/photofolio) — 사진 포트폴리오 웹사이트  
-- [📰 News Summarizer](https://github.com/username/news-ai) — AI 기반 뉴스 요약 서비스
+- [GoodSeul](https://github.com/helloa1109/goodseul)
+- [WEPLI](https://github.com/helloa1109/Wepli)
 - [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
 
 ## 📝 Blog
