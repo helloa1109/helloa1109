@@ -14,7 +14,8 @@
 
 ## 📂 Featured Projects
 - [📸 Photofolio](https://github.com/username/photofolio) — 사진 포트폴리오 웹사이트  
-- [📰 News Summarizer](https://github.com/username/news-ai) — AI 기반 뉴스 요약 서비스  
+- [📰 News Summarizer](https://github.com/username/news-ai) — AI 기반 뉴스 요약 서비스
+- [DREAMSTAY](https://github.com/helloa1109/Dreamstay)
 
 ## 📝 Blog
 - [Tistory Blog](https://hyukding.tistory.com/)  
