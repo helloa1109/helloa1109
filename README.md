@@ -19,7 +19,7 @@
 
 ## 📝 Blog
 - [Tistory Blog](https://hyukding.tistory.com/)  
-- [Velog](https://velog.io/@username)  
+- [Notion](https://nutritious-notebook-fb1.notion.site/19aacd4b1e19803c97bcf50527018dd3?source=copy_link)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
