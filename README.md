@@ -3,7 +3,9 @@
 ## 🚀 About Me
 - 🌱 프론트엔드 개발 공부 중  
 - 💻 React, TypeScript, Next.js를 주로 사용  
-- 🎯 목표: 사용자 경험을 고려한 인터랙티브한 웹 서비스 개발  
+- 🎯 목표: 사용자 경험을 고려한 인터랙티브한 웹 서비스 개발
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=helloa1109&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript, Python  
@@ -23,6 +25,3 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
-## ✨ Fun Fact
-- ☕ 카페인 없으면 코딩 불가  
