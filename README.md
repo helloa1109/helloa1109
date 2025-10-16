@@ -19,7 +19,7 @@
 
 ## 📝 Blog
 - [Tistory Blog](https://hyukding.tistory.com/)  
-- [Notion](https://nutritious-notebook-fb1.notion.site/19aacd4b1e19803c97bcf50527018dd3?source=copy_link)
+- [Notion](https://sour-rainforest-ad6.notion.site/PM-28a1940e16a4804eaaddeea92d18f16f?pvs=74)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
