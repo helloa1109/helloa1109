@@ -5,8 +5,6 @@
 - 💻 React, TypeScript, Next.js를 주로 사용  
 - 🎯 목표: 사용자 경험을 고려한 인터랙티브한 웹 서비스 개발
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=helloa1109&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript, Python  
 - **Frontend**: React, Next.js, Styled-Components, TailwindCSS  
