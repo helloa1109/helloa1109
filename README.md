@@ -8,7 +8,7 @@
 - **Frontend**: React, Next.js, TypeSciprt,TailwindCSS, JavaScript, Styled-Components
 - **Backend**: Node.js, Java  
 - **Database**: MongoDB, MySQL  
-- **Tools**: Git, Figma, VSCode
+- **Tools**: Git, Figma, Notion, Slack, JIRA,cursor
 
 ## Study
 - **Storybook, Shadcn/ui, Supabase, playwright, RabbitMQ, LangGraph, monorepo**
