@@ -6,11 +6,13 @@
 - 🎯 목표: 사용자 경험을 고려한 인터랙티브한 웹 서비스 개발
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript (ES6+), TypeScript, Python  
-- **Frontend**: React, Next.js, Styled-Components, TailwindCSS  
-- **Backend**: Node.js, Express  
+- **Frontend**: React, Next.js, TypeSciprt,TailwindCSS, JavaScript, Styled-Components
+- **Backend**: Node.js, Java  
 - **Database**: MongoDB, MySQL  
-- **Tools**: Git, Figma, VSCode 
+- **Tools**: Git, Figma, VSCode
+
+## Study
+- **Storybook, Shadcn/ui, Supabase, playwright, RabbitMQ, LangGraph, monorepo
 
 ## 📂 Featured Projects
 - [GoodSeul](https://github.com/helloa1109/goodseul)
