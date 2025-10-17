@@ -3,8 +3,7 @@
 ## 🚀 About Me
 - Naver Cloud AIaaS4기 수료
 - 현재 Slack에서 IT 커뮤니티 운영중입니다.
-- 개발 경험을 바탕으로 기획자로서의 역량을 쌓아가고 있습니다.:미소짓는_얼굴:
-
+- 개발 경험을 바탕으로 기획자로서의 역량을 쌓아가고 있습니다.
 ## 🛠️ Tech Stack
 - **Frontend**: React, Next.js, TypeSciprt,TailwindCSS, JavaScript, Styled-Components
 - **Backend**: Node.js, Java  
