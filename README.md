@@ -12,7 +12,7 @@
 - **Tools**: Git, Figma, VSCode
 
 ## Study
-- **Storybook, Shadcn/ui, Supabase, playwright, RabbitMQ, LangGraph, monorepo
+- **Storybook, Shadcn/ui, Supabase, playwright, RabbitMQ, LangGraph, monorepo**
 
 ## 📂 Featured Projects
 - [GoodSeul](https://github.com/helloa1109/goodseul)
