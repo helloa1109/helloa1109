@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Sanghyuk  
+# 👋 안녕하세요 PM 이상혁입니다
 
 ## 🚀 About Me
-- 🌱 프론트엔드 개발 공부 중  
-- 💻 React, TypeScript, Next.js를 주로 사용  
-- 🎯 목표: 사용자 경험을 고려한 인터랙티브한 웹 서비스 개발
+- Naver Cloud AIaaS4기 수료
+- 현재 Slack에서 IT 커뮤니티 운영중입니다.
+- 개발 경험을 바탕으로 기획자로서의 역량을 쌓아가고 있습니다.:미소짓는_얼굴:
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, Next.js, TypeSciprt,TailwindCSS, JavaScript, Styled-Components
