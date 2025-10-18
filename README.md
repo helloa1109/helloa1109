@@ -13,7 +13,7 @@
 - **General Tools**: Git, Figma, Notion, Slack, JIRA, cursor
 
 ## Study
-- **Storybook, Shadcn/ui, Supabase, playwright, RabbitMQ, LangGraph, monorepo**
+- [monorepo](https://github.com/helloa1109/monorepo)
 
 ## 📂 Featured Projects
 - [GoodSeul](https://github.com/helloa1109/goodseul)
