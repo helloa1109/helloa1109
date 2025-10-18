@@ -15,6 +15,7 @@
 ## Study Now
 - [monorepo-github](https://github.com/helloa1109/monorepo)
 - [기획프로젝트진행]
+- [supabase]
 
 ## 📂 Featured Projects
 - [GoodSeul](https://github.com/helloa1109/goodseul)
