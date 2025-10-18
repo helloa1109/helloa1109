@@ -1,8 +1,8 @@
 # 👋 안녕하세요 PM 이상혁입니다
 
 ## 🚀 About Me
-- Naver Cloud AIaaS4기 수료
-- 현재 Slack에서 IT 커뮤니티를 운영하고 있습니다.
+- **Naver Cloud AIaaS4기 수료**
+- **학점은행제 컴공 학사과정~ing**
 - 개발 경험을 바탕으로 기획자로서의 역량을 쌓아가고 있습니다.
 ## 🛠️ Tech Stack
 - **Frontend**: React, Next.js, TypeScript, TailwindCSS, Styled-Components
