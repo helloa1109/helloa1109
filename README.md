@@ -12,8 +12,9 @@
 - **Deployment & Ops**: Vercel
 - **General Tools**: Git, Figma, Notion, Slack, JIRA, cursor
 
-## Study
-- [monorepo](https://github.com/helloa1109/monorepo)
+## Study Now
+- [monorepo-github](https://github.com/helloa1109/monorepo)
+- [기획프로젝트진행]
 
 ## 📂 Featured Projects
 - [GoodSeul](https://github.com/helloa1109/goodseul)
