@@ -5,10 +5,12 @@
 - 현재 Slack에서 IT 커뮤니티를 운영하고 있습니다.
 - 개발 경험을 바탕으로 기획자로서의 역량을 쌓아가고 있습니다.
 ## 🛠️ Tech Stack
-- **Frontend**: React, Next.js, TypeSciprt,TailwindCSS, JavaScript, Styled-Components
-- **Backend**: Node.js, Java  
-- **Database**: MongoDB, MySQL  
-- **Tools**: Git, Figma, Notion, Slack, JIRA,cursor
+- **Frontend**: React, Next.js, TypeScript, TailwindCSS, Styled-Components
+- **Backend**: Node.js, Java
+- **Database**: MongoDB, MySQL
+- **Monorepo & Workflow**: Turborepo, pnpm
+- **Deployment & Ops**: Vercel
+- **General Tools**: Git, Figma, Notion, Slack, JIRA, cursor
 
 ## Study
 - **Storybook, Shadcn/ui, Supabase, playwright, RabbitMQ, LangGraph, monorepo**
