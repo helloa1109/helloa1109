@@ -12,7 +12,7 @@ Naver Cloud AIaaS 4기 수료 · 컴퓨터공학 학사과정
 
 | 프로젝트 | 설명 | 링크 |
 |---|---|---|
-| **GoodSeul** | 굿즈 셀러 플랫폼 기획 및 개발 | [→](https://github.com/helloa1109/goodseul) |
+| **GoodSeul** | 무당 온오프라인 플랫폼 기획 및 개발 | [→](https://github.com/helloa1109/goodseul) |
 | **WEPLI** | 음악 취향 기반 플레이리스트 서비스 | [→](https://github.com/helloa1109/Wepli) |
 | **DREAMSTAY** | 숙박 예약 서비스 | [→](https://github.com/helloa1109/Dreamstay) |
 | **DBC Wiki** | UI/UX 기획팀 지식 아카이브 | [→](https://github.com/helloa1109/wiki) |
